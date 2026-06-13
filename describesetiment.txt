@@ -2,4 +2,4 @@ Sentiment analysis (or opinion mining) is an Artificial
  Intelligence (AI) and Natural Language Processing (NLP) 
  technique used to extract and identify the 
 emotional tone behind words.
- i did this using python
+ i did this using jupiter
