@@ -3,3 +3,4 @@ Sentiment analysis (or opinion mining) is an Artificial
  technique used to extract and identify the 
 emotional tone behind words.
  i did this using jupiter (notebook)
+ i did this using jupiter (python)
